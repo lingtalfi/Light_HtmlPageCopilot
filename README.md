@@ -67,6 +67,10 @@ html_page_copilot:
 History Log
 =============
 
+- 1.0.2 -- 2019-10-18
+
+    - add precision comment
+    
 - 1.0.1 -- 2019-10-18
 
     - add example in documentation

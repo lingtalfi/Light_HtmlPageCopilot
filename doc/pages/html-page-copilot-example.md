@@ -10,6 +10,11 @@ In this example, we are using the following plugins:
 - [Light_Kit](https://github.com/lingtalfi/Light_Kit)
 
 
+We are also using the following web assets/libraries:
+
+- [jquery](https://jquery.com/)
+- [bootstrap 4](https://getbootstrap.com/) 
+- [fontawesome](https://fontawesome.com/)
 
 
 
