@@ -2,7 +2,7 @@
 
 
 
-The DummyHtmlPageCopilot class
+The LightHtmlPageCopilotService class
 ================
 2019-08-30 --> 2019-11-25
 
@@ -14,11 +14,7 @@ The DummyHtmlPageCopilot class
 Introduction
 ============
 
-The DummyHtmlPageCopilot class.
-
-Note: this class is actually an empty shell.
-I just used it so my that my universe dependency tools know that there is a relationship
-between this planet and the HtmlPageCopilot (those tools basically write the dependencies.byml for me).
+The LightHtmlPageCopilotService class.
 
 
 
@@ -26,7 +22,7 @@ Class synopsis
 ==============
 
 
-class <span class="pl-k">DummyHtmlPageCopilot</span> extends [HtmlPageCopilot](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot.md)  {
+class <span class="pl-k">LightHtmlPageCopilotService</span> extends [HtmlPageCopilot](https://github.com/lingtalfi/HtmlPageTools/blob/master/doc/api/Ling/HtmlPageTools/Copilot/HtmlPageCopilot.md)  {
 
 - Inherited properties
     - protected string [HtmlPageCopilot::$title](#property-title) ;
@@ -106,11 +102,11 @@ Methods
 
 Location
 =============
-Ling\Light_HtmlPageCopilot\Dependency\DummyHtmlPageCopilot<br>
-See the source code of [Ling\Light_HtmlPageCopilot\Dependency\DummyHtmlPageCopilot](https://github.com/lingtalfi/Light_HtmlPageCopilot/blob/master/Dependency/DummyHtmlPageCopilot.php)
+Ling\Light_HtmlPageCopilot\Service\LightHtmlPageCopilotService<br>
+See the source code of [Ling\Light_HtmlPageCopilot\Service\LightHtmlPageCopilotService](https://github.com/lingtalfi/Light_HtmlPageCopilot/blob/master/Service/LightHtmlPageCopilotService.php)
 
 
 
 SeeAlso
 ==============
-Next class: [LightHtmlPageCopilotService](https://github.com/lingtalfi/Light_HtmlPageCopilot/blob/master/doc/api/Ling/Light_HtmlPageCopilot/Service/LightHtmlPageCopilotService.md)<br>
+Previous class: [DummyHtmlPageCopilot](https://github.com/lingtalfi/Light_HtmlPageCopilot/blob/master/doc/api/Ling/Light_HtmlPageCopilot/Dependency/DummyHtmlPageCopilot.md)<br>
