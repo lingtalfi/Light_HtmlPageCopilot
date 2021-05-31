@@ -4,7 +4,7 @@
 
 The LightHtmlPageCopilotService class
 ================
-2019-08-30 --> 2021-05-10
+2019-08-30 --> 2021-05-31
 
 
 
